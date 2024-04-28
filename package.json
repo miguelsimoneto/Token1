@@ -1,0 +1,26 @@
+{
+  "name": "miguel",
+  "version": "1.0.0",
+  "description": "Token Node JS TokenNode",
+  "main": "Token.js",
+  "scripts": {
+    "test": "Token1 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelsimoneto/Token1.git"
+  },
+  "keywords": [
+    "Token1",
+    "TokenSim"
+  ],
+  "author": "Miguel Angelo Simoneto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelsimoneto/Token1/issues"
+  },
+  "homepage": "https://github.com/miguelsimoneto/Token1#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
