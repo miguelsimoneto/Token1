@@ -30,7 +30,7 @@ function verificarTokenJWT(token) {
 }
 
 // Exemplo de uso
-const usuario = { id: '123', nome: 'João' };
+const usuario = { id: '1000003', nome: 'miguel a' };
 const token = gerarTokenJWT(usuario);
 console.log(token); // Exibe o token gerado
 
